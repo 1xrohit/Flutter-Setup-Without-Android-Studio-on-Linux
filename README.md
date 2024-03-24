@@ -1,4 +1,4 @@
-# Flutter Setup Without Android Studio on Linux
+# Flutter Setup Without Android Studio on Linux 2024
 <a href="https://flutter.dev/">
   <h1 align="center">
     <picture>
