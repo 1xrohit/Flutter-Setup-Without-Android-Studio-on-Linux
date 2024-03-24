@@ -8,9 +8,6 @@
   </h1>
 </a>
 
-[![Flutter CI Status](https://flutter-dashboard.appspot.com/)
-[![Discord badge][]][Discord instructions]
-[![Twitter handle][]][Twitter badge]
 
 
 
