@@ -1,4 +1,8 @@
 # Flutter Setup Without Android Studio on Linux
+<h1 align="center">
+ <img  src='https://i.postimg.cc/cK6dysK5/My-first-design.png'/>
+  
+</h1>
 
 <img align="center" src='https://i.postimg.cc/cK6dysK5/My-first-design.png'/>
 
