@@ -4,7 +4,7 @@
   
 </h1>
 
-<img align="center" src='https://i.postimg.cc/cK6dysK5/My-first-design.png'/>
+
 
 This repository provides a script to set up Flutter development environment on Linux without using Android Studio. This can be useful if you prefer to manage your Flutter projects without the overhead of Android Studio or if you're facing issues with Android Studio on your system.
 
